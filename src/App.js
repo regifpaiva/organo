@@ -69,7 +69,7 @@ function App() {
         < Banner /> 
         <Formulario aoColaboradorCadastrado = {colaborador=>aoNovoColaboradoAdicionado(colaborador)}/>
         
-        {times.map(time=> <Time key={time.nome} nome={time.nome} corPrimaria={time.corPrimaria} corSecundaria={time.corSecundaria}/>)}
+        {times.map(time=> <Time key={time.nome} nome={time.nome} corPrimaria={timegit .corPrimaria} corSecundaria={time.corSecundaria}/>)}
        
 
 
