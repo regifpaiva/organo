@@ -1,0 +1,20 @@
+.footer {
+    background-color: #6278F7;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px;
+    
+}
+.footer__icones {
+    display: flex;
+    list-style: none;
+
+}
+.icones {
+
+    padding: 20px;
+}
+.titulo__rodape {
+    color:#F2F2F2;
+}
